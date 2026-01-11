@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Slow time lover",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-01-11T17:12:44.217004Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "slow time lover",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_slow_time_lover_レトロリロン.txt"
+    }
+  ]
+}
